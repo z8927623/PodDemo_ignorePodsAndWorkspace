@@ -1,0 +1,2 @@
+# PodDemo_ignorePodsAndWorkspace
+PodDemo_ignorePodsAndWorkspace
